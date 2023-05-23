@@ -1,0 +1,3 @@
+INSERT INTO apmr.materials (`id`,`eventId`,`userId`,`fileUri`,`fileName`,`fileExtension`,`size_bytes`,`path`) VALUES (14444,1000001,1,'https://www.academia.edu/files/Expedition_report.pdf','Отчет экспедиции','pdf',1000058,'/museum1/files/Expedition_report.pdf');
+INSERT INTO apmr.materials (`id`,`eventId`,`userId`,`fileUri`,`fileName`,`fileExtension`,`size_bytes`,`path`) VALUES (14445,1000002,1001,'https://www.academia.edu/files/Presentation.pdf','Презентация','pdf',400137,'/museum2/files/Presentation.pdf');
+INSERT INTO apmr.materials (`id`,`eventId`,`userId`,`fileUri`,`fileName`,`fileExtension`,`size_bytes`,`path`) VALUES (14446,1000002,1001,'https://www.academia.edu/files/Template.xls','Шаблон заявки','xls',141000,'/museum2/files/Template.xls');
